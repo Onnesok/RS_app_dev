@@ -1,6 +1,7 @@
 # Flutter HTTP Requests
 
 Making HTTP requests in Flutter allows your app to communicate with web servers and APIs. This guide covers the essentials.
+![http](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP6RTM5_VYc4qFImUmeY685_kZEQxzi0xohA&s)
 
 ## Setup
 
@@ -117,6 +118,7 @@ Future<List<Map<String, dynamic>>> fetchUsers() async {
 ```
 
 ## Authentication
+![auth](https://us-west-2.graphassets.com/AuGrs0mztRH6ldTYKJkSAz/ox83OUWwRui7oai8BnOW)
 
 ### API Key
 ```dart
@@ -308,6 +310,7 @@ class UserApiService {
 ```
 
 ## UI Integration
+![ui](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMogHIA38H3MZRpt-0lq4beuUFHO2ka6gAAg&s)
 
 ### Loading State Management
 ```dart
