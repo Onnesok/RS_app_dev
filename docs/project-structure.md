@@ -1,7 +1,7 @@
 # Flutter Project Structure
 
 A well-organized project structure makes your Flutter app easier to maintain, test, and scale. This guide covers best practices for organizing your Flutter project.
-
+![project](https://www.eresourcescheduler.com/assets/images/blog/memes-for-project-managers-eight.jpg)
 ## Basic Flutter Project Structure
 
 When you create a new Flutter project, you get this basic structure:
