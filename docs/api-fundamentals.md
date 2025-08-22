@@ -6,6 +6,8 @@ An API (Application Programming Interface) is like a waiter in a restaurant - it
 
 An API is a set of rules that allows one software application to interact with another. Think of it as a contract that defines how applications can request and exchange data.
 
+![api](https://voyager.postman.com/illustration/diagram-what-is-an-api-postman-illustration.svg)
+
 ### Real-World Analogy
 
 Imagine you're ordering food:
@@ -88,6 +90,7 @@ Base URL: https://api.example.com
 ```
 
 ## Making API Calls in Flutter
+![api call](https://project-static-assets.s3.amazonaws.com/APISpreadsheets/APIMemes/StanleyScreaming.jpeg)
 
 ### 1. Add HTTP Package
 ```yaml
