@@ -2,6 +2,8 @@
 
 Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase using the Dart programming language.
 
+![Lets build apps](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHB26xjPYwfLJRAWnei6O1NHmZLowg1XlXfA&s)
+
 ## What is Flutter?
 
 Flutter is like a magic box that lets you write code once and run it on multiple platforms (iOS, Android, Web, Desktop). It's built by Google and uses a language called Dart.
@@ -9,6 +11,7 @@ Flutter is like a magic box that lets you write code once and run it on multiple
 ## Key Concepts
 
 ### 1. Everything is a Widget
+![widgets](https://img-9gag-fun.9cache.com/photo/arox7VX_460s.jpg)
 
 In Flutter, everything you see on screen is a **Widget**. Think of widgets as building blocks for your app.
 
@@ -26,6 +29,7 @@ ElevatedButton(
 ```
 
 ### 2. Stateless vs Stateful Widgets
+![state](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52WDOv9a0nh1xzqMsAhDGxQrldSaUmPG6CQ&s)
 
 **Stateless Widget**: Doesn't change over time (like a static image)
 **Stateful Widget**: Can change over time (like a counter that increases)
@@ -91,6 +95,7 @@ Column(
 ```
 
 #### Container
+![container](https://miro.medium.com/v2/resize:fit:1200/1*STd9u5TPBJx1PtIr5C2ASA.jpeg)
 ```dart
 // Container - like a box that can hold other widgets
 Container(
@@ -102,6 +107,7 @@ Container(
 ```
 
 ### 4. Your First Flutter App
+![yay](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPVxw76yf2ewe_SpBCs36ZXpJmJrchGAAKQ&s)
 
 Here's a complete simple app:
 
@@ -146,6 +152,7 @@ Text(
 ```
 
 ### Button Widgets
+![button](https://miro.medium.com/v2/resize:fit:1200/1*gGcU73flISkekJM8elOsGw.png)
 ```dart
 // Basic button
 ElevatedButton(
